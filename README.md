@@ -1,5 +1,4 @@
 # README.md
-Manual Testing Project – Includes Test Cases, Bug Reports, and Test Summary Report.
 This repository contains my manual testing work, including **Test Cases, Bug Reports, and Test Summary Reports**, created as part of my learning and practice.
 
 ## Project Overview
