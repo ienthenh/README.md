@@ -4,9 +4,9 @@ This repository contains my manual testing work, including **Test Cases, Bug Rep
 ## Project Overview
 - **Objective:** Practice manual testing process.
 - **Scope:**
-  - Designed detailed **test cases** covering functional requirements.
-  - Executed tests and logged **bug reports** with clear steps to reproduce.
-  - Created a **test summary report** to present results and key metrics.
+  - Designed detailed test cases covering functional requirements.
+  - Executed tests and logged bug reports with clear steps to reproduce.
+  - Created a test summary report to present results and key metrics.
 
 ## Contents
 | Document | Description |
